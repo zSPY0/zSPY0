@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Python,SQL**
 
-- 👨‍💻 All of my projects are available at [https://di-portfolio-b51aa.web.app/](https://di-portfolio-b51aa.web.app/)
+- 👨‍💻 All of my projects are available at [http://bit.ly/portfolio-z/](https://di-portfolio-b51aa.web.app/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter,Data Analytics**
 
-- 📫 How to reach me **zaine@gmail.com**
+- 📫 How to reach me **zaine6600@gmail.com**
 
 - ⚡ Fun fact **I think, I am addicted to Bits and Bytes**
 
